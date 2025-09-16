@@ -1,3 +1,7 @@
+#nabulo shantal hilda m24b13/008
+#muyobo arnold m24b13/024
+#kyazze angella m24b13/041
+
 #book class
 
 class book:
@@ -13,3 +17,4 @@ book2 = book("ache", "john", "1993")
 
 print(book1.describe())
 print(book2.describe())
+
