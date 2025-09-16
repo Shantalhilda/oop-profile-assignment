@@ -1,3 +1,7 @@
+#nabulo shantal hilda m24b13/008
+#muyobo arnold m24b13/024
+# kyazze angella m24b13/041
+
 #visitor class
 
 class visitor:
@@ -33,4 +37,5 @@ hostel = Hostel("UCU Hostel")
 
 hostel.record_visit(visitor1, resident1)
 hostel.show_visits()
+
         
